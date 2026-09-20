@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T08:51:35.814Z",
+  "generated_at": "2026-09-20T09:01:33.617Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -233,6 +233,19 @@
       "last_pushed_at": "2026-09-20T08:51:34.301Z",
       "language": "python",
       "lines": 35
+    },
+    "problem:308": {
+      "kind": "problem",
+      "id": "308",
+      "title": "Gradient Direction and Magnitude",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/308",
+      "path": "problems/0308-gradient-direction-and-magnitude",
+      "first_solved_at": "2026-09-20T09:01:31.309Z",
+      "last_pushed_at": "2026-09-20T09:01:31.309Z",
+      "language": "python",
+      "lines": 27
     }
   }
 }
