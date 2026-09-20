@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T08:31:42.059Z",
+  "generated_at": "2026-09-20T08:51:35.814Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -220,6 +220,19 @@
       "path": "math/0034-least-squares-and-the-normal-equations",
       "first_solved_at": "2026-09-20T08:31:37.232Z",
       "last_pushed_at": "2026-09-20T08:31:37.232Z"
+    },
+    "problem:312": {
+      "kind": "problem",
+      "id": "312",
+      "title": "Quotient Rule for Derivatives",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/312",
+      "path": "problems/0312-quotient-rule-for-derivatives",
+      "first_solved_at": "2026-09-20T08:51:34.301Z",
+      "last_pushed_at": "2026-09-20T08:51:34.301Z",
+      "language": "python",
+      "lines": 35
     }
   }
 }
