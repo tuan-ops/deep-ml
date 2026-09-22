@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T17:59:12.893Z",
+  "generated_at": "2026-09-22T18:04:38.446Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -630,6 +630,17 @@
       "path": "math/0022-common-distributions-ii-normal-poisson-exponential",
       "first_solved_at": "2026-09-22T17:59:11.786Z",
       "last_pushed_at": "2026-09-22T17:59:11.786Z"
+    },
+    "math:46": {
+      "kind": "math",
+      "id": "46",
+      "title": "The Four Fundamental Subspaces",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/46",
+      "path": "math/0046-the-four-fundamental-subspaces",
+      "first_solved_at": "2026-09-22T18:04:37.459Z",
+      "last_pushed_at": "2026-09-22T18:04:37.459Z"
     }
   }
 }
