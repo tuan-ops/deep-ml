@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T17:41:16.191Z",
+  "generated_at": "2026-10-29T18:05:12.047Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -767,6 +767,19 @@
       "last_pushed_at": "2026-10-29T17:41:10.140Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:803": {
+      "kind": "problem",
+      "id": "803",
+      "title": "Mini-Batch Gradient Descent Step for Linear Regression",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/803",
+      "path": "problems/0803-mini-batch-gradient-descent-step-for-linear-regression",
+      "first_solved_at": "2026-10-29T18:05:06.037Z",
+      "last_pushed_at": "2026-10-29T18:05:06.037Z",
+      "language": "python",
+      "lines": 28
     }
   }
 }
